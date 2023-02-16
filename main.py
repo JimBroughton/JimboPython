@@ -1,2 +1,2 @@
-small_nums = [x for x in range(10)]
+small_nums = [x for x in range(20)]
 print (small_nums)
